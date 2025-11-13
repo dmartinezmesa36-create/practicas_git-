@@ -6,3 +6,6 @@ def calcular_area_t(base,altura):
 #solo se necesita los lados del cuadrado
 def calclar_area_c(lado):
     return lado * lado
+
+def area_circilo(r):
+    return(3.14*r*r)
