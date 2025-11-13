@@ -5,7 +5,7 @@ from calculos import calclar_area_c,calcular_area_t,area_circilo
 
 
 #programa
-print("hola mundo")
+print("practica_git_13-11_2025")
 resultado= suma(5,10)
 print(resultado)
 
